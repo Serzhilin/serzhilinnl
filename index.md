@@ -4,9 +4,9 @@ title: Home
 description: >-
   Especializado en el desarrollo de API RESTs con Ruby on Rails. He participado
   en diversas etapas del ciclo de desarrollo de aplicaciones.
-image: /assets/images/main.avif
+image: /assets/images/avatar.jpg
 main_content: >
-  # Hello Friend. Hello World.
+  # Hello hello. My name is Sergei
 
 
   **Solum remis procul; poenam, corde?** Te quoque facti agros, querorque,
