@@ -22,6 +22,6 @@ main_content: >
   - Co-authoring research on community economies for the City of Amsterdam
 
 
-footer: false
+footer: true
 permalink: /
 ---
