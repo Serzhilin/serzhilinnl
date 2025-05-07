@@ -1,5 +1,5 @@
 title: serzhilin.nl
-logo: /assets/images/logo.avif
+logo: /assets/images/logo.svg
 baseurl: 
 
 ##
@@ -24,9 +24,9 @@ collections:
 ##
 contact_channels_section: true
 contact_channels:
-  # email: "example@example.cl"
-  github: "https://github.com/a-chacon"
-  # telegram: "https://t.me/"
+  email: "serzhilin@pm.me"
+  telegram: "https://t.me/serzhilin"
+  linkedin: "https://www.linkedin.com/in/sergei-zhilin"
   # stackoverflow: "https://stackoverflow.com"
   # discord: "https://discord.com/"
   # mastodon: "https://lile.cl/"
